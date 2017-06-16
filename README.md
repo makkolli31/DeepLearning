@@ -1,5 +1,5 @@
 # DeepLearning
-배워보자
+배워보자!
 
 # Ground Rule
 지각 : 17시 10분 이후(5000원)
